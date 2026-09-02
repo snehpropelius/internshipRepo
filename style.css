@@ -1,0 +1,9 @@
+body {
+    background-color: antiquewhite;
+}
+p {
+    font-style:oblique;
+    color: black;
+    border-style: dashed;
+    margin: 25px;
+}
